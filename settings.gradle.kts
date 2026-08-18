@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Practice"
 include(":app")
+include(":usb-adapter")
